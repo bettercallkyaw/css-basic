@@ -1,0 +1,68 @@
+1.Css Fundamentals
+
+2.Responsive Design
+
+3.FlexBox
+
+4.Css Grid
+
+5.Animation(Transitions,KeyFrames,etc)
+
+6.Css variable,Transform,Pseudo Selectors,ect)
+
+7.Sticky Menu,Overlays,Form Styling,Landing Pages,etc
+
+8.Website Deployment - shared host&&netlify
+
+9.Sass
+
+-------------------------------------------------
+-------------------------------------------------
+-implementing css
+-using selectors
+-fonts,colors,etc
+-background&colors
+-box model/margin&padding
+-floating&alignment
+-display property
+-link&button styling
+-creating menus
+-positioning
+-form styling
+-------------------------------------------------
+-------------------------------------------------
+www.color-hex.com
+www.htmlcolorcodes.com
+-------------------------------------------------
+-------------------------------------------------
+CSS Units:Absolute
+
+cm==>centimeters
+mm==>millimeters
+in==>inches
+px==>Pixels(1px=1/96th of 1 in)
+pt==>Points(1pt=1/72 of 1 in)
+pc==>Picas Picas(1pc=12pt)
+
+-------------------------------------------------
+-------------------------------------------------
+CSS Units:Relative
+
+% ==>To Parent element
+em ==>To font size of parent element
+rem ==>To font size of root element
+vw ==>To 1% of viewport width
+vh ==>To 1% of viewport height
+
+-------------------------------------------------
+-------------------------------------------------
+CSS Position
+1.static==>(not effected by tblr(top,bottom,left,right) properties/values)
+
+2.relative==>(tblr values cause element to be moved from its normal position)
+
+3.absolute==>(positioned relative to its parent element that is positioned "relative")
+
+4.fixed==>(positioned relative to the viewport)
+
+5.sticky==>(positioned based on scroll position)
